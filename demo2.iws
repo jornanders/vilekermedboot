@@ -9,6 +9,7 @@
     <file path="/RootController.java" changelist="56ef5660-cc29-4acc-97c9-b4eaa6b46317" time="1411564905007" ignored="false" />
     <file path="/PersonRepository.java" changelist="56ef5660-cc29-4acc-97c9-b4eaa6b46317" time="1411564354807" ignored="false" />
     <file path="/Person.java" changelist="56ef5660-cc29-4acc-97c9-b4eaa6b46317" time="1411564309542" ignored="false" />
+    <file path="/Procfile" changelist="56ef5660-cc29-4acc-97c9-b4eaa6b46317" time="1411566162187" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +79,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="32" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.30571428">
+            <state line="46" column="32" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.07714286">
               <folding />
             </state>
           </provider>
@@ -144,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/no/ciber/boot/web/RootController.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -677,7 +688,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="32" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.30571428">
+        <state line="46" column="32" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.07714286">
           <folding />
         </state>
       </provider>
